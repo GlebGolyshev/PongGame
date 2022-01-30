@@ -1,3 +1,4 @@
+// you must write comments in code!!!"
 package com.example.ponggame;
 
 import android.content.Context;
