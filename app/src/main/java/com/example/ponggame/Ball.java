@@ -3,7 +3,7 @@ package com.example.ponggame;
 import android.graphics.RectF;
 
 import java.util.Random;
-// comments needed
+// translate comments into russian
 public class Ball {
 
     private RectF mRect;
