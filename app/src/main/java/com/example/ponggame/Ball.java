@@ -3,7 +3,7 @@ package com.example.ponggame;
 import android.graphics.RectF;
 
 import java.util.Random;
-// comments needed
+// пиши комментарии к каждой функции!!!
 public class Ball {
 
     private RectF mRect;
@@ -13,11 +13,10 @@ public class Ball {
     private float mBallHeight;
 
     public Ball(int screenX, int screenY){
-
         // Make the mBall size relative to the screen resolution
         mBallWidth = screenX / 100;
         mBallHeight = mBallWidth;
-
+// а вот еще подарочек
     /*
         Start the ball travelling straight up
         at a quarter of the screen height per second
