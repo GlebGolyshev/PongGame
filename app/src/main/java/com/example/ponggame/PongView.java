@@ -149,7 +149,7 @@ class PongView extends SurfaceView implements Runnable {
     public void setupAndRestart(){
 
         // Put the mBall back to the start
-        mBall.reset(mScreenX/2, mScreenY/2);
+        mBall.reset(mScreenX/2, mScreenY/3);
 
         // if game over reset scores and mLives
         if(mLives == 0) {
